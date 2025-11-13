@@ -75,8 +75,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
+        "yaw": 1.9890781338606907,
+        "pitch": 0.008126810264272422,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -120,8 +120,8 @@ var APP_DATA = {
       ],
       "faceSize": 1664,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
+        "yaw": -0.6702961429305123,
+        "pitch": 0.03465164043926272,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -138,8 +138,8 @@ var APP_DATA = {
           "target": "0-"
         },
         {
-          "yaw": -1.1441381129961492,
-          "pitch": 0.26992124934342776,
+          "yaw": -1.2578356372920965,
+          "pitch": 0.3073078767837245,
           "rotation": 0,
           "target": "1-"
         }
@@ -177,8 +177,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
+        "yaw": -2.431587202384346,
+        "pitch": -0.04179502421627035,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -244,7 +244,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Project Title",
+  "name": "淡水河",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
